@@ -13,6 +13,6 @@ Altibase 7.1.0부터 Spatial에 다음과 같은 변화가 있다.
 
 
 이에 따라 mangosystem에서 제작한 이전 버전의 plugin(gt-jdbc-altibase-21-SNAPSHOT.jar)이
-Altibase 7.1.0과 호환되지 않아 아래의 repository를 수정하여 gt-jdbc-altibase-22-SNAPSHOT.jar를 제공한다. 
+Altibase 7.1.0과 호환되지 않아 아래의 repository 소스를 일부 수정하여 gt-jdbc-altibase-22-SNAPSHOT.jar를 제공한다. 
 
 mangosystem repository: https://github.com/mangosystem/geotools-jdbc-korean/tree/master/jdbc-altibase
